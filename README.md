@@ -1,4 +1,4 @@
-- 👋 Hi there, I’m @ali3238
+###  Hi there 👋
 - 👀 I’m currently working on IoT Apps and Blockchain Apps 
 - 🌱 I’m currently learning everyting I can find
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ali-c-bb027a197)
